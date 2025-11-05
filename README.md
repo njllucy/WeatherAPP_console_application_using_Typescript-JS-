@@ -1,4 +1,4 @@
-# 🌤️ TypeScript Weather App
+# 🌤️ TypeScript Weather Console App
 A simple terminal-based weather application built with TypeScript that fetches real-time weather data from the OpenWeatherMap API.
 
 <b>Features</b>
