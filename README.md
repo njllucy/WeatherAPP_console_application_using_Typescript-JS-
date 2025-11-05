@@ -15,11 +15,9 @@ Enter a city name and get current weather information.
 
 4-Wind speed (m/s)
 
-5-Country
+5-Sunrise Time
 
-6-Sunrise Time
-
-7-Sunset Time
+6-Sunset Time
 
 Handles errors gracefully (invalid city names).
 
