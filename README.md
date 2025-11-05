@@ -39,7 +39,9 @@ Built using TypeScript, Axios, and readline-sync.
 
 -OpenWeatherMap API
 
-#Output
+# Output
+
+
 <img width="708" height="266" alt="Screenshot 2025-11-05 194449" src="https://github.com/user-attachments/assets/cabc72f9-b555-4a93-ae50-fc6a93f4b3bb" />
 <img width="663" height="264" alt="Screenshot 2025-11-05 194455" src="https://github.com/user-attachments/assets/1b2793fa-9e55-4c8c-9217-12d28916cd1c" />
 <img width="674" height="257" alt="Screenshot 2025-11-05 194501" src="https://github.com/user-attachments/assets/94b0b685-ec3b-4da9-858f-598297acf7d4" />
